@@ -1,8 +1,8 @@
 # SSC0740---Sistemas-Embarcados-filtro-passa-alta
 Trabalho de Embarcados, Processamento de imagens,  filtro passa altas
 
-- [Relatório](tree/main/Relatorio.pdf)
+- [Relatório](Relatorio.pdf)
 
-- [Imagens](tree/main/imagens)
+- [Imagens](imagens)
 
-- [código leitura das imagens](tree/main/leitura_c)
+- [código leitura das imagens](leitura_c)
